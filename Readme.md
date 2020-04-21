@@ -72,7 +72,7 @@ Readme.md —— 《强国助手》说明文档
 
 脚本完成任务9预计花费18分钟。
 
-**未实现的任务功能**包括：
+**未实现的任务功能**包括：（参考答题解决方案https://github.com/MisterZakary/-LazyStudy）
 
 1.每日答题
 
